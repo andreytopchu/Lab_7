@@ -1,0 +1,8 @@
+D:\Лабораторные работы по численным методам\Lab7\Lab7\bin\Debug\Lab7.exe
+D:\Лабораторные работы по численным методам\Lab7\Lab7\bin\Debug\Lab7.pdb
+D:\Лабораторные работы по численным методам\Lab7\Lab7\obj\x86\Debug\Lab7.Form1.resources
+D:\Лабораторные работы по численным методам\Lab7\Lab7\obj\x86\Debug\Lab7.Properties.Resources.resources
+D:\Лабораторные работы по численным методам\Lab7\Lab7\obj\x86\Debug\Lab7.csproj.GenerateResource.Cache
+D:\Лабораторные работы по численным методам\Lab7\Lab7\obj\x86\Debug\Lab7.exe
+D:\Лабораторные работы по численным методам\Lab7\Lab7\obj\x86\Debug\Lab7.pdb
+D:\Лабораторные работы по численным методам\Lab7\Lab7\obj\x86\Debug\Lab7.csprojResolveAssemblyReference.cache
